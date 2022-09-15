@@ -7,7 +7,11 @@ __pycache__/
 *.so
 
 # DS_Store
-*.DS_Store
+
+.DS_Store
+DS_Store
+.AppleDouble
+.LSOverride
 
 # Distribution / packaging
 .Python
